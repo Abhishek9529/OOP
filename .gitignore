@@ -1,7 +1,13 @@
-Demo.exe
-Lec12.exe
-Lec11.exe
-Lec18.exe
-lec112.exe
-Lec21.exe
-Lec21.class
+# Compiled executables
+*.exe
+
+# Java compiled class files
+*.class
+
+# C/C++ object files
+*.o
+*.obj
+
+# OS generated files
+Thumbs.db
+.DS_Store
